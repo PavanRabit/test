@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>36.0</version>
+    <version>37.0</version>
     <types>
         <members>Case.Standard</members>
         <members>Lead.Standard</members>
@@ -14,7 +14,6 @@
     <types>
         <members>Internal Zone</members>
         <name>Community</name>
-        <!-- Added comment-->
     </types>
     <types>
         <members>standard__AppLauncher</members>
@@ -34,7 +33,6 @@
     <types>
         <members>Account.Active__c</members>
         <members>Account.CustomerPriority__c</members>
-        <members>Account.DandbCompanyId</members>
         <members>Account.Description</members>
         <members>Account.DunsNumber</members>
         <members>Account.Fax</members>
