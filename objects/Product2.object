@@ -3,6 +3,7 @@
     <actionOverrides>
         <actionName>Add</actionName>
         <type>Default</type>
+        <!-- Added master comment-->
     </actionOverrides>
     <actionOverrides>
         <actionName>CancelEdit</actionName>
