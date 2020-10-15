@@ -3,6 +3,7 @@
     <actionOverrides>
         <actionName>CancelEdit</actionName>
         <type>Default</type>
+		<!-- Added comment -->
     </actionOverrides>
     <actionOverrides>
         <actionName>Delete</actionName>

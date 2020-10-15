@@ -15,6 +15,7 @@
         <members>Case.Standard</members>
         <members>Lead.Standard</members>
         <name>AssignmentRule</name>
+        <!-- Added Comment -->
     </types>
     <types>
         <members>Case</members>
@@ -29,6 +30,7 @@
     <types>
         <members>Internal Zone</members>
         <name>Community</name>
+		<!-- Added comment in test branch -->
     </types>
     <types>
         <members>standard__AppLauncher</members>

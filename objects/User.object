@@ -3,6 +3,7 @@
     <actionOverrides>
         <actionName>CallHighlightAction</actionName>
         <type>Default</type>
+		<!-- Added comment -->
     </actionOverrides>
     <actionOverrides>
         <actionName>CancelEdit</actionName>

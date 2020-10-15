@@ -1,1 +1,4 @@
 test
+
+test for the training session. 
+Added comment for by using the git client.
