@@ -15,6 +15,7 @@
     <types>
         <members>Internal Zone</members>
         <name>Community</name>
+		<!-- Added comment in test branch -->
     </types>
     <types>
         <members>standard__AppLauncher</members>
