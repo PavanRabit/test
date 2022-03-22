@@ -82,7 +82,7 @@
         <filters>
             <field>CORE.USERS.ACTIVE</field>
             <operation>equals</operation>
-            <value>1</value>
+            <value>2</value>
         </filters>
         <label>Active Users</label>
     </listViews>
